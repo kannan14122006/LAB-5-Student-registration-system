@@ -1,4 +1,5 @@
-# REG NO: 212224230004       DATE: 20.09.2025
+# REG NO: 212224240072       
+# Name: kannan R
 # LAB-5-Student-registration-system
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
